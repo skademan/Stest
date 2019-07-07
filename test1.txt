@@ -3,3 +3,11 @@ testing something in Git.
 ------------------------------------
 
 this is the line am adding to see the modification happened or not.
+_________________________________________________
+
+second attemp for modification:
+it should show 
+the correct author name.
+i have modified the config file using config command.
+
+
