@@ -6,3 +6,9 @@ everything working as expected.
 below things need to be tested out:
 upload from local to remote reposoitory.
 analyse data.
+todays work:
+created new file on github remote directory. added comment.
+used git pull command to pull the updated files from remote to local director using git pull origin master.
+used git log origin master or git log to see the logs of the repository.
+Saw added new file in my local directory.
+everything has been updated as per expectations.
