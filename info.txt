@@ -1,0 +1,8 @@
+this is just a information of this project.
+So far I have created a repository on github. Name is Stest.
+clone the repository into my local machine named as Stest.
+worked on Add, commit, push , remote add, status, log , branch, checkout branch, checkout commit commands.
+everything working as expected.
+below things need to be tested out:
+upload from local to remote reposoitory.
+analyse data.
